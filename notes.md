@@ -36,10 +36,10 @@ Day 6: HTML Practice
 
 * Continued rewriting from memory to strengthen muscle memory
 * Focused on content organization and semantics
-* Practiced using multiple <section> tags with <h2> headers and <p> for paragraphs
-* Included horizontal rules (<hr>) to separate logical blocks
-* Added ordered (<ol>) and unordered (<ul>) lists to summarize learnings and rules
-* Used <footer> to wrap up the page with links to previous days for navigation
+* Practiced using multiple section tags with h2 headers and p for paragraphs
+* Included horizontal rules to separate logical blocks
+* Added ordered ol and unordered ul lists to summarize learnings and rules
+* Used footer to wrap up the page with links to previous days for navigation
 * Practiced document readability by keeping paragraphs concise and structured
 * Maintained daily habit consistency and timed coding session
 * Time spent: ~15 minutes
