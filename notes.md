@@ -1,11 +1,11 @@
-Day 1: HTML Basics
+## Day 1: HTML Basics
 
 * Basic header
 * Basic paragraphs
 * Document title
 * Lists
 
-Day 2: HTML Practice
+## Day 2: HTML Practice
 
 * Rewrote Day 1 from memory
 * Added multiple headers (h1, h2, h3)
@@ -15,7 +15,7 @@ Day 2: HTML Practice
 * Practiced semantic structure
 * Time spent: ~15–20 minutes
 
-Day 3: HTML Practice
+## Day 3: HTML Practice
 
 * Focused on Python & Frontend goals within HTML
 * Added sections for goals, timelines, and lists
@@ -23,7 +23,7 @@ Day 3: HTML Practice
 * Practiced writing content, not just tags
 * Time spent: ~12–15 minutes
 
-Day 4: HTML Practice
+## Day 4: HTML Practice
 
 * Proper semantic structure: header, nav, main, multiple sections, footer
 * Added nav with multiple links
@@ -32,7 +32,7 @@ Day 4: HTML Practice
 * Focused on content flow and readability
 * Finished in ~12 minutes
 
-Day 6: HTML Practice
+## Day 6: HTML Practice
 
 * Continued rewriting from memory to strengthen muscle memory
 * Focused on content organization and semantics
