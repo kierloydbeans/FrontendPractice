@@ -31,3 +31,15 @@ Day 4: HTML Practice
 * Included summary ul and learning priority ol
 * Focused on content flow and readability
 * Finished in ~12 minutes
+
+Day 6: HTML Practice
+
+* Continued rewriting from memory to strengthen muscle memory
+* Focused on content organization and semantics
+* Practiced using multiple <section> tags with <h2> headers and <p> for paragraphs
+* Included horizontal rules (<hr>) to separate logical blocks
+* Added ordered (<ol>) and unordered (<ul>) lists to summarize learnings and rules
+* Used <footer> to wrap up the page with links to previous days for navigation
+* Practiced document readability by keeping paragraphs concise and structured
+* Maintained daily habit consistency and timed coding session
+* Time spent: ~15 minutes
