@@ -32,7 +32,7 @@
 * Focused on content flow and readability
 * Finished in ~12 minutes
 
-## Day 6: HTML Practice
+## Day 5: HTML Practice
 
 * Continued rewriting from memory to strengthen muscle memory
 * Focused on content organization and semantics
@@ -43,3 +43,11 @@
 * Practiced document readability by keeping paragraphs concise and structured
 * Maintained daily habit consistency and timed coding session
 * Time spent: ~15 minutes
+
+## Day 6: HTML Practice
+
+* Rewrote from memory to strengthen muscle memory
+* Kept proper structure and sectioning
+* Made it diary-like
+* Used strong tags to emphasize key learnings
+* Time not recorded cuz im drained fromearlier python hell
